@@ -1,0 +1,10 @@
+
+In line number 21 of your output:
+The output should be:
+ Price: 12.34
+But your output is: 
+ Price: 12
+          ^
+----------|
+Professor's character ASCII code: hex(2e), dec(46)
+un-matched character ASCII code: hex(d), dec(13)
